@@ -1,0 +1,7 @@
+stepdefinitions\steps.class
+pages\BasePage.class
+pages\LoginPage.class
+utils\ReadProperties.class
+pages\ItemsPage.class
+pages\CheckoutPage.class
+runner\TestRunner.class
